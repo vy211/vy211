@@ -1,14 +1,16 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--l6O_ZkIM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png)]()
 <h1 align="center">Hi 👋, I'm Vipin Kumar Yadav</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vy211&label=Profile%20views&color=0e75b6&style=flat" alt="vy211" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
+- 🌱 I’m currently learning **Open-Source**
+  
+- 🧑‍🎓 Student at NIT Allahabad
+ 
 - 📝 I regularly write articles on [https://vipinyadavworld.blogspot.com/](https://vipinyadavworld.blogspot.com/)
 
-- 💬 Ask me about **Django, MERN**
+- 💬 Ask me about **DSA, Algorithm, Django, MERN**
 
 - 📫 How to reach me **vy80091@gmail.com**
 

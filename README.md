@@ -18,14 +18,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vy211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vy211" height="30" width="40" /></a>
+<a href="https://dev.to/vy211" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="vy211" height="30" width="40" /></a>
 <a href="https://twitter.com/vipinya211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipinya211" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vipinya211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipinya211" height="30" width="40" /></a>
 <a href="https://instagram.com/__milesstone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__milesstone" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vipinya211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vipinya211" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vipinya211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vipinya211" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vipinya211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vipinya211" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vips80091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vips80091" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vips80091" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf_K0JksHMfoEYt25afbLN1k82_TU8CfzkEqn4k1pe1VatFhcl1UUEwwOOvU0u509SN1c&usqp=CAU" alt="vips80091" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vipinya211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vipinya211" height="30" width="40" /></a>
 </p>
 
